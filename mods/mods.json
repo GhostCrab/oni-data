@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1703611962",
+        "title": "Bigger Building Menu",
+        "version": 1668601782
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.BiggerBuildingMenu"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706181611",
+        "title": "Geyser Calculated Average Output Tooltip",
+        "version": 1665437596
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.GeyserCalculatedAvgOutputTooltip"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717526174",
+        "title": "Plan Buildings Without Materials",
+        "version": 1665440673
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.PlanBuildingsWithoutMaterials"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1718888149",
+        "title": "Better Air Filters",
+        "version": 1683575862
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "better_air_filters"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1737859934",
+        "title": "GasOverlay",
+        "version": 1677944441
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1737859934.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1737893485",
+        "title": "ChainedDeconstruction",
+        "version": 1687019998
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1737893485.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1814341183",
+        "title": "Blueprints",
+        "version": 1611510094
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1814341183.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "title": "Build Over Plants",
+        "version": 1624689939
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1835394161.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1845579729",
+        "title": "Wall Pumps and Vents",
+        "version": 1631830887
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1845579729.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1868454866",
+        "title": "No Drop // by @Ony ",
+        "version": 1676871426
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "NoDrop"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1881925531",
+        "title": "Queue For Sinks",
+        "version": 1688366161
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.QueueForSink"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1893887916",
+        "title": "Research Queue",
+        "version": 1670574502
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ResearchQueue"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1960947963",
+        "title": "Better Info Cards",
+        "version": 1664941038
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Aze.BetterInfoCards"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2018291283",
+        "title": "Mod Updater",
+        "version": 1696480559
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.ModUpdateDate"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2054432034",
+        "title": "Insulated Door",
+        "version": 1665136463
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "2054432034.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2094698134",
+        "title": "Airlock Door",
+        "version": 1686118123
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.AirlockDoor"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2208398090",
+        "title": "Traffic Overlay",
+        "version": 1624836753
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "asquared31415.TrafficVisualizer"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3033409170",
+        "title": "Piped Everything",
+        "version": 1700296015
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PipedEverything"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "3059711743",
+        "title": "Big Storage",
+        "version": 1698253610
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "3059711743.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony ",
+        "version": 1698485576
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "DGSM"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1833427385",
+        "title": "WGSM - World Generation Settings Manager // by @Ony ",
+        "version": 1688191871
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "WGSM"
+    }
+  ]
+}
