@@ -1,19 +1,19 @@
 strings:
   INSTALL_TIMESTAMP: 638372655038857026
   PlayShortOnLaunch: intro\Spaced_Out_Intro
-  SaveFilenameKey/: C:\Users\ryanp\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561197960794974\Starving Moonbase\Starving Moonbase.sav
+  SaveFilenameKey/: C:\Users\ryanp\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561198832486485\The Super Dump\The Super Dump.sav
   SandboxTools.SelectedEntity: MushBar
   SandboxTools.SelectedDisease: FoodPoisoning
   SandboxTools.SelectedStory: MorbRoverMaker
 ints:
-  SESSION_ID: 5
+  SESSION_ID: 12
   LowResTextures: 0
   ResolutionWidth: 3840
   ResolutionHeight: 2160
   RefreshRate: 144
   FullScreen: 1
   ColorModeID: 0
-  LoadScreenCloudTutorialTimes: 1
+  LoadScreenCloudTutorialTimes: 2
   GAME_ID: 1
   SandboxTools.SelectedElement: 141
   SandboxTools.DiseaseCount: 0
@@ -21,6 +21,7 @@ ints:
   SandbosTools.MoraleAdjustment: 50
   AlwaysPlayAutomation: 1
   MuteOnFocusLost: 0
+  NextUniqueID: 94462
 floats:
   Volume_SFX: 1
   Volume_Music: 0
