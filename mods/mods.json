@@ -334,6 +334,22 @@
       "crash_count": 0,
       "reinstall_path": null,
       "staticID": "3059711743.Local"
+    },
+    {
+      "label": {
+        "distribution_platform": 0,
+        "id": "1863428350",
+        "title": "Sweep By Type",
+        "version": 1550139926
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        "EXPANSION1_ID"
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.SweepByType"
     }
   ]
 }

@@ -1,1 +1,1 @@
-[{"mButton":"NumButtons","mKeyCode":"Q","mAction":"CopyBuilding","mModifier":"None"}]
+[{"mButton":"NumButtons","mKeyCode":"R","mAction":"RotateBuilding","mModifier":"None"},{"mButton":"NumButtons","mKeyCode":"T","mAction":"ManageResearch","mModifier":"None"},{"mButton":"NumButtons","mKeyCode":"T","mAction":"Attack","mModifier":"Shift"},{"mButton":"NumButtons","mKeyCode":"Q","mAction":"CopyBuilding","mModifier":"None"},{"mButton":"NumButtons","mKeyCode":"None","mAction":"SandboxStoryTraitTool","mModifier":"None"}]
